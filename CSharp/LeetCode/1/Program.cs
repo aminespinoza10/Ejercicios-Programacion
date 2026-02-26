@@ -23,4 +23,3 @@ int[] nums2 = { 3, 2, 4 };
 int target2 = 6;
 int[] result2 = TwoSum(nums2, target2);
 Console.WriteLine($"Output: [{result2[0]}, {result2[1]}]");
-
